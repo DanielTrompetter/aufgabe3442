@@ -12,7 +12,7 @@ void main() {
         case >=30 && <35:
           print("Männer sind im Alter 30-35 im Schnitt 180,4 cm");
         case >35:
-          print("Männer sind im Alter von über 30 im Schnitt kleiner als 180,4 cm");
+          print("Männer sind im Alter von über 35 im Schnitt kleiner als 180,4 cm");
         default:
           print("Keine Daten für Männer dieses Alters");
       }
@@ -27,7 +27,7 @@ void main() {
         case >=30 && <35:
           print("Frauen sind im Alter 30-35 im Schnitt 167,2 cm");
         case >35:
-          print("Frauen sind im Alter von über 30 im Schnitt kleiner als 167,2 cm");
+          print("Frauen sind im Alter von über 35 im Schnitt kleiner als 167,2 cm");
         default:
           print("Keine Daten für Frauen dieses Alters");
       }
